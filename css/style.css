@@ -854,7 +854,7 @@ input[type="date"]::-webkit-clear-button {
     position: relative;
     width: 70vmin;
     height: 70vmin;
-    background: #89c2d9;
+    background: #7c6744;
     -webkit-clip-path: polygon(
       50% 0%,
       83% 12%,
